@@ -1,0 +1,365 @@
+"shortName","commit_sha","author_name","commit_date","commit_message","ID","snapshotId"
+"kouchat-android","5c2149848f932fcb7b68fa1d8580a686c04a6b0","Christian Ihle <blurpy@gmail.com>",1353856259,"Adding todos",76948,7311
+"Yaaic","06bbd0442bae33b11d9fe449369b11e9e8f0462","Sebastian Kaspari <s.kaspari@googlemail.com>",1268351390,"Adjustments for the on screen keyboard",56068,5389
+"miita-android","fe8cdbc093a3fb0f52143a95f5fb025cee02ddf","naoto0822 <n.h.in.m.h@gmail.com>",1482180616,"reformat code",82868,7757
+"mst","6478fd2b1857b4150a9cde9ba8714d76ee4a93d8","qii <qiibeta@gmail.com>",1344203748,"json",84607,7852
+"tribler-android","7bb69cf448863ff7bc0181d341a56eb3a8a49af","Niels Spruit <niellus16@hotmail.com>",1401112030,"Added lint ignore to player.xml",102570,9534
+"RedReader","8eb0be0c1ccbfa22834ad7cfb92a816b8bf42f6","Dalton Dick <daltondick2010@gmail.com>",1373150548,"Added .gitignore",43565,4062
+"CB-News","d6fc609fc5692c88314cd1eae01dc51a14a732f8","j1angvei <mjiangwei@outlook.com>",1469714105,"modify webView content width fit device",10684,1014
+"RadyoMenemenPro","660e946a19b58a40393356076eee8142c99ab13","Lütfi Tekin <lutfi-tekin@outlook.com>",1470494824,"added  shortcut methods",42086,3930
+"Easy_xkcd","6341a799135e40b5628ce946436dc78f67d09df","T-Rex96 <tom.praschan@gmail.com>",1445076517,"code cleanup",15867,1571
+"Beanstalk","ff2b207b22d7f19a24ff506799a533069dca0a5d","Casey Feldman <ligerxx@me.com>",1351089336,"Good News Everyone (esp. Crystal)! New upload_all.png,Now includes SD Card image",5515,569
+"DroidPersianCalendar","1aebf56845122a5485879772d9c8e143ad31269","Ebrahim Byagowi <ebrahim@gnu.org>",1420821169,"Use travis badge",14285,1456
+"revolution-h2o","0ffa3c3b25b60fad6d37ecf80810f7d46b8d290","gnanda <gnanda@mines.edu>",1369390645,"Very basic sprint implemented + refactoring",96088,8836
+"mst","6917b0df550e413bcb3b7018ee72e9151e9ca073","qii <qiibeta@gmail.com>",1345291608,"re",84773,7854
+"tribler-android","a556554a856c18a7ff60927d2f8175d02bfc660","Niels Spruit <niellus16@hotmail.com>",1401265794,"Added tests for video info screen in landscape mode",102512,9534
+"IRRemote","1b2b0bb1596e9b28fa657d506ab49da1f61da30","Twinone <twinonedevs@gmail.com>",1412930425,"Fixed negative IR slice crash",22714,2437
+"Raspberry-Bus-Malaysia","8d133d7eb28f762eab965b654db3779764209ae","Sweetie Piggy <sweetiepiggyapps@gmail.com>",1335217090,"clean up whitespace",42886,3988
+"adventures-of-kobe","c6fffb1020cc89a4dca3238b4f25f331361e5ed0","Julian Saavedra <julian.felipe.saavedra@gmail.com>",1439679648,"August 16,2015 - Commit 3,An event demo for displaying TextBoxImage,on PlayState",57474,5496
+"Android-Notification","2b539651404edf8fb9daed4a36845f617b73cd0","Alberto Cuda <alberto.cuda@gmail.com>",1371999890,"Fixed trivial bug",1738,197
+"Reader","16c1ac518f73c4bdac463f4f631397728f223a9","TheKeeperOfPie <igpx346@gmail.com>",1435793711,"- Move to custom Activity for settings to get UI looking right,- Add sorting for comment thread,- Add auto loading of more comments,- Thin down comment level indicator",43270,4024
+"kouchat-android","85451de4d01771e50488388e780b5ebb9247e91","Christian Ihle <blurpy@gmail.com>",1470560516,"Showing unread private chat messages in a separate notification",77866,7370
+"blokish","3e56e6ab5a711ed6ac045562f7820859922d2da","sooc7596 <support@scoutant.org>",1434025852,"added feature : press back twice to quit",65507,6209
+"msg","7ab1c11431f86ec82b8a6070d6087ff4afd3b5d","Sergey Solovyev <se.solovyev@gmail.com>",1364385410,"changes",83743,7820
+"prevo","28e82c724c66f1c3ebe5a61aa30eb78ca63982f","Neil Roberts <bpeeluk@yahoo.co.uk>",1341861317,"pdb-revo: Initialise in_list,Valgrind was picking this up as uninitialised data.",91164,8537
+"RadyoMenemenPro","5a605c94774582e0e0858b04cb0973a9a98d40c","Lütfi Tekin <lutfi-tekin@outlook.com>",1470494856,"code cleanup",42085,3930
+"Umbrella_android","2c62ed3611a9c5d2956583caf0377c8655267fc","Rok Biderman <rok.biderman@gmail.com>",1414535287,"basic icons set up",53003,5119
+"QSCMobileLegacy","49c3174f068f2c81f2698a5d957106a363deb5e","Zhang Hai <Dreaming.in.Code.ZH@Gmail.com>",1385368666,"Correct string ""请稍后"" to ""请稍候"".",41112,3835
+"Flym","ced65aa13a72dafa0692289d42923213caec998","HoloAddict <fred.julian@gmail.com>",1374863554,"ignore possible small errors on OPML parsing",18051,1813
+"zulip-android","2c145369a0f081b8a7f8bc1eaf085e2667b66f7","Luke Faraone <lfaraone@zulip.com>",1379087352,"Excise lastAvailableMessageId in favour of app.getMaxMessageId()",106063,9893
+"Ursmu","57e7ecd0ad3ebae436a3e9fada615a19e7cc54f","turlir <iljaosincev@gmail.com>",1399681248,"add new icon",53915,5187
+"tribler-android","b77a595153c5a001413edbd8a7a6e0a69b6a1cf","Schut <dirk_schut@live.nl>",1401278271,"Moved Mainactivitytest into the main package",102496,9534
+"OpenCamera","1dfb51f2552e2b29e719633e3a76f4488a74246","sergey.malykhin <sergey.malykhin@alamlence.com>",1398239353,"New icons updated.,Store updated.,Barcode quick settings icon added",33038,3247
+"BlackLight","912be445b0866e9e3b35af138e740169374c3c4","PeterCxy <xqsx43cxy@126.com>",1400321753,"WeiboAdapter: Try to fix memory leak",7875,794
+"CB-News","4be4bed77a8adcae318beabfff01224e515ddebc","j1angvei <mjiangwei@outlook.com>",1469790120,"remove fab in ContentActivity,add menu in ContentFragment",10680,1014
+"batterylogger","a4a6e523161509d56c83d3f127e446725b4f8d8","Johan Walles <johan.walles@gmail.com>",1426423983,"Collect app logs and offer sending them to Johan,Yay supportability!,Ported and improved from the Thermometer Widget.",65330,6174
+"chinese-checkers","a77c20871e4a7324976c858f18f8ac5d92b1969","scoutant <android@scoutant.org>",1352819163,"set peg more transparent when selected. so as to hint that jumping over itself is not allowed.",67893,6436
+"tribler-android","8d49a4c04174ca4836b363e2cddde9d9a11e5d7","Niels Spruit <niellus16@hotmail.com>",1401283577,"Fixed package name error in ResourceManager",102483,9534
+"WhosMakingTheBrew","b21b244e3d8d402487a008146353b9033790f04","James Morgan <james.morgan.e@googlemail.com>",1384107008,"Using ORM Lite fragment",55415,5336
+"speedofsound","fc701782189691981bc955f5d449b749c157ba8","Jacob Peddicord <jacob@peddicord.net>",1344117696,"Lazily update song meta.,This means we don't have to hit the database whenever a song changes,(and the service isn't running) and we don't have to fetch on every,location update either.",99973,9179
+"Billy","73d618be82565e44a1cd66dd9110ed265765a83f","Vibin reddy <v@vibinreddy.me>",1408312694,"Embedded YouTube player in DetailView",6500,654
+"AVARELOG","2d1aa44bfd407dbcdde88b8da32cc2ea30b3c77","Ryan O'Leary <roleary@gmail.com>",1457194267,"Save some testing history",1345,165
+"revolution-h2o","572147b206b53d268dbffcef28cf100469e9d16","ccard <ccard@mymail.mines.edu>",1369736843,"updated user feed back to show what its related to and a compose button,to compose the email,simpler and clearer to use",96058,8836
+"NetGuardAPI23","94617dbe74ed33f00035a141459db82c1b93243","M66B <marcel@faircode.eu>",1451826210,"Notify update for system apps which are user apps now",29773,3035
+"MifareClassicTool","334d99e89c41951e8a835b210e082ec19e3f477","ikarus <ikarus4ever@web.de>",1424639607,"Implemented incr./decr. function for Value Blocks.",26614,2783
+"Produce-Price-Checker","b1c831a904c396248ce3baffae7bca5651c46f8","Jarvis Lin <jarvislin0202@gmail.com>",1422734425,"Merge branch 'feature/search' into develop",40559,3795
+"Android-Spacecraft-Game","817a8a6fdc951dc6fb38ca61b5636fe33319ff4","aaronistheman <aarons.7007@gmail.com>",1454691649,"Removed use of CopyOnWriteArrayList for mEnemyEntities,Now,ArrayList is used instead. I made this change to make it easier to,delete enemies. I won't make this change for the other,CopyOnWriteArrayList,unless the efficiency of the game somehow becomes a,problem.",3803,330
+"cryptogram","f9b84d7cdf43d51fdb5840c1e18005d244b6ebf6","Paul Lammertsma <pflammertsma@gmail.com>",1487270869,"version bump",70943,6658
+"Snake-2","83a3ba0ff88873c869c85cf49c156a93067c761","Joel Eager <jee7291@rit.edu>",1425732547,"Merged Arcade and Classical game UI xml files into one and created UI xml file for adventure mode",48663,4557
+"bumpingbunnies","69d413588b9eab49f37eed92036d1dae6bef8dc","Hinnerk Oetting <hinnerk.oetting+git@gmail.com>",1414173884,"Moved gamemain factory to core",67176,6383
+"reicast-emulator","89ab2420c9333c2064af3c7117a68ccb1c7dd5f","TwistedUmbrella <twistedumbrella@gmail.com>",1392232078,"Fix an issue with popup definition coming after vector calls",94735,8743
+"tribler-android","70dc19614127216b549ad81daf836dd075c6ea6","Niels Spruit <niellus16@hotmail.com>",1401267581,"Added test for clicking the 'Play video' button",102511,9534
+"KeepScore","7036f58865b0cb912f001a83a8b3ab7503eca4a","Nolan Lawson <nolan.lawson@gmail.com>",1347805562,"combine Reset Scores and Copy Game into just Rematch",24609,2580
+"MLManager","3df2434b2471d992b07ce0a5731bcfa24a7cd2c","Javier Santos <javier.santos.vel@gmail.com>",1433453927,"Fix NullPointerException on some CM12 devices",25738,2678
+"Arvutaja","5af2b74d011f1ce153af2e6d516ef9a33d67ddf","Kaarel Kaljurand <kaljurand@gmail.com>",1318454784,"Some improvements to the Google Map queries,Note: Google Map queries are currently not possible with the internal translator.",5066,491
+"DashProject","e19840b11847a103106be4278e8c614d5843287","devnatres <devnatres@gmail.com>",1421442855,"Level data. Lobby background. Data encrypting (ini)",13377,1323
+"show-java","da220107fb186243312dc6ffb3daa5646a0ad16","Niranjan Rajendran <niranjan94@yahoo.com>",1432932035,"Styles and colors update.,* Added new colors. Shades of grey.,* updated style definitions.",97371,8952
+"spb-transport-app","4c41c08c6470122f5d6f04cd58e16bed1931f89","router <alexey.emelyanenko@gmail.com>",1387139325,"- portal client bugfixing,- search page bugfixing",99858,9167
+"secrecy","12f7509389b558234ec31d722c8f0b68920c896","Stelian Morariu <stelian.morariu@gmail.com>",1426339296,"extracted sdk info from  app build.gradle (it is applied from android_commons.gradle)",97138,8912
+"helsinki-testbed2-android","87064718a7ad88b3ed123dbe815548625c239ce","Mikko Vestola <mikko.vestola@iki.fi>",1351538903,"Updated changelogs.",73110,6957
+"android-galaxyzoo","7287b949570c3d80eacb0e9a5b6b2bb5b5d2482","Murray Cumming <murrayc@murrayc.com>",1428048571,"1.42",62312,5849
+"batterylogger","f3ba3841f063df1f9a55e4cf8d63218fdfff78f","Johan Walles <johan.walles@gmail.com>",1426101731,"Contact Developer menu item cosmetics,If it's unavailable,disable it.,If it resolves to one app exactly,show the icon of that app.",65334,6174
+"maniana","a9e70afd8db961ccf3a51e8320c3286f6a68d43","Tal Dayan <dayanster@gmail.com>",1330516171,"Reordered the theme selection preferences.",78920,7470
+"klingon-assistant","5e17cb3806de3ea817277f478aa8c33648428fe","De'vID <De.vID.jonpIn@gmail.com>",1407359406,"fix crash with {roSHa'moH} analysis,connect {vaD} and {roS}",76251,7251
+"Yaaic","35f430ad9b7973fdced5c539f3771c45c1bbf4c","Sebastian Kaspari <s.kaspari@googlemail.com>",1268260044,"MessageListAdapter: Synchonize the addMessage() method as the LinkedList may throw an ConcurrentModificationException",56088,5389
+"CB-News","80b37a27cb1bcad3b3e70d5b1caf4604b9d580f0","j1angvei <mjiangwei@outlook.com>",1469807203,"bug fix of comments module content module",10679,1014
+"secrecy","b41a816da990930d953eefc30671475b73d279a","Stelian Morariu <stelian.morariu@gmail.com>",1426327778,"added .gitignore files for every app/ library and removed lines that where not relevant",97142,8912
+"congress-android","7cf227baa11557f304e8b2190d746210d9419ae","Eric Mill <kprojection@gmail.com>",1296211959,"Only show votes that a legislator was a valid voter for (ignores non-Rep delegates in the 112th,and out-of-office legislators)",69497,6548
+"AndroidIconics","b55405674aa931adbf0d2fad0f589dcca38d191","Mike Penz <mikepenz@gmail.com>",1446582097,"* add some new useful short methods inside the Iconcis class, * Iconics.on, * Iconics.update",4701,433
+"BuckeyeBuilder","fd537256f1a6520a122125d9bc43d326c0f864f","Zels123 <tomwallace123@yahoo.com>",1397143578,"Update buildingdb",10208,960
+"msg","fc59b32f694063082f26f76b169011df833308b","Sergey Solovyev <se.solovyev@gmail.com>",1361986937,"changes",83624,7816
+"PixelDungRemix","bfb9aa6874905d9ba22c4873eda0bcaf5b8f8cf","Mikhael-Danilov <mikhael.danilov@gmail.com>",1429483689,"fix minor mistakes",39065,3690
+"Bioscope","cb13f1c1c860991bd69e6715d1837f9fa860f2b","Dhinesh Dharman <dhinesh.dharman@gmail.com>",1436091353,"Fixing Wifi hostspot creation to be more robust",6903,694
+"Betrayal","0f0145abcc7266ab73afa6677eed3d31b0ba133","roophanxp <roophanxp@gmail.com>",1438587210,"SHOP - 700 lines of code HELL YEAH,... weapons has a bug the other 3 work",5928,601
+"MozuAndroidInStoreAssistant","4bd7f9770b07244498d517a86543354a5bcba60","Matthew Wear <matt_wear@volusion.com>",1408458049,"fixed bug with orders loader",27091,2848
+"NetGuardAPI23","27cd090cb453916ef3b59f3b79ae3b07f0223d1","M66B <marcel@faircode.eu>",1452413078,"2016011002 beta",29835,3036
+"reicast-emulator","ef6a83add6399704ba6a4f8786c2756e71e2ccc","Stefanos Kornilios Mitsis Poiitidis <skmp@nillware.com>",1390400387,"Merge branch 'master' of https://github.com/reicast/reicast-emulator",94530,8740
+"revolution-h2o","c26952476cdc9526d19dc4ba935d01f68f9acbf","Tony Nguyen <tonnguye@mymail.mines.edu>",1369304644,"Merge remote-tracking branch 'origin/master'",96126,8836
+"revolution-h2o","8f2852c382478070f4c9c363b727cd74bdd18ef","eternalearth888 <mdeslis@gmail.com>",1369587513,"new launcher icon ldpi",96069,8836
+"msg","da0057519528090eb1c8956844834e74b68bc99","Sergey Solovyev <se.solovyev@gmail.com>",1362788450,"changes",83683,7818
+"na4lapy-android","da5819cab562220a9a96bb36c9e011b9559e384","Gosia Syska <malgorzata.syska@o2.pl>",1458003856,"Zmieniono AbstractDrawerActivity - pozostawiono jedną klasę zamiast dwoch. Przygotowano baze do wydzielena Handlera dla AbstractDrawerActivity dla metody onNavigationItemSelected i setDrawer. Wydzielono osobny layout dla wszystkich aktywnosci dziedziczacych po AbstractDrawerActivity z ustawieniem w nim DrawerMenu na toolbarze. Dostosowano do tego SplashActivity oraz PreferencesActivity. Reszta zmian dotyczy merge'a.,Merge branch 'master' of https://stash.pfig.org.pl:49443/scm/kdp/mobile-android,# Conflicts:,#	app/build.gradle,#	app/src/main/AndroidManifest.xml,#	app/src/main/java/pl/kodujdlapolski/na4lapy/Na4LapyComponent.java,#	app/src/main/java/pl/kodujdlapolski/na4lapy/ui/main/activity/SplashActivity.java,#	app/src/main/res/layout/activity_splash.xml,#	app/src/main/res/values-v21/styles.xml,#	app/src/main/res/values/colors.xml,#	app/src/main/res/values/dimens.xml,#	app/src/main/res/values/strings.xml,#	app/src/main/res/values/styles.xml,#	app/src/mock/java/pl/kodujdlapolski/na4lapy/api/FakeApiServiceImpl.java",86741,8009
+"TD","3f72826ccd939119925023fc70b494570d5301c","CiTuX <info@citux.ch>",1360091251,"FavoritesList",49298,4638
+"GeometricWeather","59dd0ccb595e24c5ecf5f9f1ebf42fc5206cfe4","wangdaye <wangdayeeeeee@gmail.com>",1485948230,"5.2.5",20658,2090
+"BlackLight","587531d3290c3e8e44b5fa67a818552946b3c72","PeterCxy <xqsx43cxy@126.com>",1400693161,"README.md: update",7848,794
+"android-galaxyzoo","f1d5c6038144da048397daa422fe5dd4b30acb3","Murray Cumming <murrayc@murrayc.com>",1428182789,"ZooniverseClient: Reduce the max simultaneous downloads from 10 to 5.,So We get 5 of each group in the first set of 10 cached in advance.,Hopefully this won't slow down the overall download of that 10.,Thanks to Tjitse Koster for noticing the need for this while beta testing:,https://plus.google.com/100809029711685946218/posts/8hqPkrLsEMP",62302,5849
+"lbm-client","5b4c48de30c5d9677998edc27eb49df26675bfd4","gilse <gil@b-buzzy.com>",1405583366,"country selection",77928,7373
+"DroidPersianCalendar","6cefe347eccd6ef3032d5263d496f4d7989f4a3","Ebrahim Byagowi <ebrahim@gnu.org>",1420822189,"Use newer name for Android gradle plugins",14283,1456
+"android-galaxyzoo","2a6befa824c03c5bbddeca723b742ac6b5b1e2a","Murray Cumming <murrayc@murrayc.com>",1411846507,"IconsCache: Reload all from the network if some part of the reloading fails.",61606,5826
+"MeerkatChallenge","4ccf9adf0ef13a3da553edfc447b86590208e0e","jcasson <jcasson@gmail.com>",1382456372,"Separated style from layout and renamed the main activitys layout",26198,2730
+"BuckeyeBuilder","3216a24c5cc59115d125e50672fd005af981f65","kimberlyboydstun <boydstun.3@osu.edu>",1396384577,"building detail,removed unnecessary code",10186,959
+"Winnipeg-Transit-Plus","25dd089186c57a9597c3a3f0a6f6675f3d3637a","Kieran <kieranloewen@live.com>",1488920692,"Refactored url creation to be simpler",55768,5363
+"speedofsound","a9852137bb9f8806c974a062f77594391678ddd","Jacob Peddicord <jacob@peddicord.net>",1344122319,"Add an incomplete About dialog.",99972,9179
+"StarfieldScreensaver","06221d66c05872026b5e8c4f5bb06ef0ab8195f","Gabriel Brandao <brandao.gabe@gmail.com>",1462834991,"Added the last of the uncommited files and added a few to gitignore",48693,4565
+"pressureNET","55f966590941d339f906ee1bc1413fbbac3291c","Jacob Sheehy <jacob.sheehy@gmail.com>",1377178035,"Improving chart label separation and formatting",90335,8453
+"SGLVertretungsplan","be19174f988338e4d9d55a9dec3b1e4b8a648fb2","RandomByte <apps.randombyte@gmail.com>",1442091046,"Added AboutLibraries",44983,4191
+"PixelDungRemix","f4e1c9ad869327fe7419a9f22ba9333494b772a","Mikhael-Danilov <mikhael.danilov@gmail.com>",1436823299,"debugging...",39381,3702
+"Raspberry-Bus-Malaysia","4010482ddde7355b382295e5f3229441ccae374","Sweetie Piggy <sweetiepiggyapps@gmail.com>",1337718213,"save and restore state",42911,3990
+"NetGuardAPI23","00b476f59942968f2bc32a7d8b6ccbe103930bc","M66B <marcel@faircode.eu>",1452859052,"Native checksum",29786,3036
+"Android-Spacecraft-Game","b15450afba0ae4a3b1ca9a395a9e5e2ec321e14","aaronistheman <aarons.7007@gmail.com>",1458659504,"Original waypoint is randomly set for WaypointEnemy instances,Thus,WaypointEnemies won't always go left at the very beginning of the,level.",3859,336
+"tribler-android","06e204af62e9a1b2ab11cb5bf4a7c3ff6e3049d","nspruit <nspruit@users.noreply.github.com>",1400145674,"Merge pull request #11 from wtud/readme,Update ReadMe and add license",102286,9532
+"TIIK","01e83b142be275664bc44f36b476516abe14da1","AraBisTiC <arabistic@hotmail.co.uk>",1433155098,"1.1.7 - LAST PUSH .7*",49698,4672
+"wimple","c6a72e3da31426d5aa92ae3a1c00b55ec99e840","hallower <hallower@gmail.com>",1458777001,"Merge pull request #1 from hallower/master-github,Master GitHub",104979,9759
+"meeba","b27a072d0f937350059f178d9ffbd282454d3dc","eidanspiegel <eidanspiegel@1a69d080-33a6-a178-0004-a98bc7fb1081>",1385291679,"Changed create event actionbar icon. Also changed DashbaordActivity to be the main. If it detects that you aren't registered on the phone then it sends you back to the LoginActivity",81173,7618
+"KeepScore","764d59aeb4c466a95f157d101392616391de40b","Nolan Lawson <nolan.lawson@gmail.com>",1332582357,"add round totals to the HistoryActivity,update changelog",24560,2577
+"LimiteCartao","95c4a9c95007d15d5f3c864a8d6a5cae6a9bda0","Marcos Diez <marcos@unitron.com.br>",1439147739,"we now have the sum of expences",25131,2615
+"Reader","4b150f3695ad40b75086527a6d55f4e5847956b","TheKeeperOfPie <igpx346@gmail.com>",1427491356,"- Add separate TextView for self text",43204,4016
+"na4lapy-android","ff4cfcd6648df806f35ca4569bf89385e181e92","Marek Wojtuszkiewicz <mwojt@users.noreply.github.com>",1464348367,"Zmiana działania metod getAnimals oraz getShelter,Metody zwracają dane w dwóch ""falach"":,1) dane z lokalnego cache'a,2) dane pobrane z api",86885,8020
+"toopantip","cd86dfc10ff834352b67b76676aae348e8931b2","Çağatay Çallı <ccalli@gmail.com>",1361355984,"Saved view : saved search adapter was not updated with save operation,fixed",101204,9411
+"RadyoMenemenPro","4ec1db6ce246f300d220135add51db020236658","Lütfi Tekin <lutfi-tekin@outlook.com>",1470509494,"added broadcast receiver",42079,3930
+"Raspberry-Bus-Malaysia","43675e873f3402df7d4d82b346ee64a54e4850e","Sweetie Piggy <sweetiepiggyapps@gmail.com>",1334858186,"start cleaning up a bit",42905,3988
+"Yaaic","60b0df6c2675bc1589f2ebe0fed3547fda73067","Sebastian Kaspari <s.kaspari@googlemail.com>",1267920095,"Added autoscrolling to channel switcher",56168,5389
+"SimpleRunTracker","31e966bc017fb63235e18f192ab9dd8a942b679","takoli <takacsoliver@hotmail.com>",1442089219,"percent layout work phase 1",48562,4536
+"comicdroid","013207dd598cfaefb77367a5303fdae84ad4d6e","Ulrik Andersson <ulrik.andersson@gmail.com>",1380646573,"added universal loader submodule",68430,6468
+"skydivekompasroos","36fcd48fa936240d4f86c2c8c9d99cbb45eb00f","Robbert Wethmar <robbert@digitalica.nl>",1357983350,"finalize rename specific canopy edit",98162,9032
+"cryptogram","6b39388209087265d5f275f765702e6a5db78899","Paul Lammertsma <pflammertsma@gmail.com>",1492259658,"moved tests into CryptogramProvider",70997,6660
+"palabras","2e923daab9c207e8d57405c06ecd5c1ec7627c4","Victor Kalutskiy <v1ktor_k@bk.ru>",1391164125,"Merge branch 'fixes-n-features' of https://github.com/v1k/palabras into fixes-n-features",89035,8329
+"sokobug","19d23e96f5fe1255c4962c79da7a5216ac0868d2","Bogdan Guranda <bogdanguranda@gmail.com>",1429377105,"Added locked buttons and loading/saving to preference file the player,progress.",99605,9128
+"Reader","a1326f1e1e8c09a0b4fa76cfaaa0775a465dab2","TheKeeperOfPie <igpx346@gmail.com>",1427669358,"- Update link header in comment view",43203,4016
+"Randomly-RemindMe","9747c65018b4237b978dd3561e6eb8c30851c457","James Morris <morris.a.james@gmail.com>",1430921843,"Removed some unused functions",42806,3968
+"geo","605b3b2da2f835f135b537cb59ee0c8663b0892","Dmitry Baryshnikov <bishop.dev@gmail.com>",1402503327,"New version start",72527,6867
+"sexytopo","28b58408856d1a754b954a65c35d222874ca4d9","Rich Smith <rls@hwyl.org>",1442867305,"Fix annoying colours on cell being clicked and popup menu on table view",97182,8922
+"Yaaic","3104603543c21d3de3fab85d533132a3109fcf5","Sebastian Kaspari <s.kaspari@googlemail.com>",1268251927,"IRCConnection now uses conversations instead of channels",56106,5389
+"datFM","a517442500dc0b66b4f714749a1bd0df00d9f3a","ZorgeR <zorg.rhrd@gmail.com>",1361921530,"0.1.6.4b - fix favorites adding",71118,6676
+"BuckeyeBuilder","c598da69eb60abf2dca4f5630cf30718ef8d551","Navid Matin <seyedmatin.1@osu.edu>",1396450713,"Added GPS Location finder",10183,959
+"bachamada","367f2b6536c88b33e1dc625633c86437bace5d2","macha <macha.dacosta@gmail.com>",1455804136,"Update button in profile",65124,6151
+"reicast-emulator","564bb6837faa064316fd773bd814f5604aadc5b","Bryan Barnes <hooby3d@gmail.com>",1391728378,"vmu swap icon,AMERICA",94796,8743
+"MozuAndroidInStoreAssistant","397508e5c5593218b5f2ff390b596398d3cc808","Matthew Wear <matt_wear@volusion.com>",1408697478,"clean up for returns,basically just hiding list when there are no returns",27065,2848
+"mst","00a2a9a07bf73269f93e9178b533e58c1d3e6096","qii <qiibeta@gmail.com>",1344438625,"json",84585,7852
+"tsp-lexikon-android","ae1a9fac246c653de75f52b9efa2b4dabcd4adc2","Johannes Bjerva <johannes.bjerva@slagkryssaren.com>",1364026888,"Fixed wrong height",103606,9577
+"GBHS-Android","e96b7672eee982f9aa4116de3e6a1c1b92cafce","Corey Rowe <CoreyR1196@gmail.com>",1431953420,"Updated Twitter and Crashlytics versions,Removed facebook and location dependencies",20562,2065
+"TransportsRennes","e1387aeba86675341b8dd060ac43fb0e2200923","ybonnel <ybonnel@gmail.com>",1301072120,"Ajout des bin dans le gitignore.",51936,4937
+"red-sea-tools","d91ef44c435d90efcdecaf1724d7577f3c724f26","Liam <lamencel@gmail.com>",1435612028,"Update README.md",93636,8676
+"Freebloks-Android","07df51a26d4eaf2fb63b964a2ba3778264366b3","Sascha Hlusiak <mail@saschahlusiak.de>",1366994526,"new app icon,high res version in about dialog",19420,1930
+"Yut","1e0aa3c2a1c11d27cb89192d2dfb7139723a2c8","Richard Zhang <rzhang46@binghamton.edu>",1462103853,"editableBackground",56936,5434
+"pressureNET","8507ba3a117e60b0456c51edd9581e5dbda8bd5","Jacob Sheehy <jacob.sheehy@gmail.com>",1390399535,"Stats charts,#128",90616,8473
+"revolution-h2o","9262aa8bd6e2358d32423f391e57288d9fd6cf6","ccard <ccard@mymail.mines.edu>",1369737075,"removed minigameselection.java file because it is no longer used",96055,8836
+"revolution-h2o","d54d83df3930e5a8e0859165607eccd8116245b","ccard <ccard@mymail.mines.edu>",1369306330,"fixed problems with the size of the background for the menu buttons",96120,8836
+"NetGuardAPI23","ec83212c0d30a21149f3e5d2acc57652ba5999e","M66B <marcel@faircode.eu>",1452358104,"Close search when opening settings to prevent keyboard from popping up",29701,3035
+"reicast-emulator","c7f4aa0c52bca0d9264badf35c68b64b5321cdd","TwistedUmbrella <twistedumbrella@gmail.com>",1390312487,"Make games directory recursive to one level for gdi folders",94537,8740
+"cominghome","b816d0adb09dcefb7cd876b789e25e9ea8b32a6","rmceoin <rmceoin@gmail.com>",1410606775,"Bumped appengine to 1.9.10.  Pass back the error from Nest to app.",68465,6472
+"BuckeyeBuilder","b5c788ed699b5e51a2855f68e6cc5aabaec6e1b","navidmatin <seyedmatin.1@osu.edu>",1397523613,"Some small changes",10195,960
+"smooth-app-bar-layout","cd8672dd9e8d51d486161e381e119bda13129a0","Henry Tao <hi@henrytao.me>",1454757218,"Removed Listview",99197,9090
+"android-quill","55528f264968220e5bc5971967708379a157db9","vbraun <vbraun@localhost>",1332782918,"clear page is now undo-able",62840,5912
+"DATX02_15_36","82eb40e42a38c9f48ace96dd253c5bb87ac95fa","EmmaWestman <eewestman@gmail.com>",1427901558,"calendar view show the right color",12735,1302
+"android-quill","8c7089693308cd96f305aebb20b2276d83cb052","vbraun <vbraun@localhost>",1332790918,"more resource strings,added OP080 hw detection",62838,5912
+"BlackLight","ebf0ee7f1ac12eb0557a2e0892759d0f2f5bc59","PeterCxy <xqsx43cxy@126.com>",1400349816,"FavListFragment: Implementation",7872,794
+"KeepScore","9c36efb6235cf00bf3a6921f3ee0bc828ec972d","Nolan Lawson <nolan.lawson@gmail.com>",1347725040,"clean up imports",24622,2580
+"reicast-emulator","e4e7df1c265de5965fa9a55402c22965f8bef12","Matteo Hausner <matteo.hausner@gmail.com>",1390155947,"Fixed issue #110,Fixes for the layout of FileBrowser,Replaced close and folder icons with ones that better match the other icons in design,Improved reset icon",94573,8740
+"PixelDungRemix","dcdcf7e9bc92834e9184c9701fbee7334e1eeaf","Mikhael-Danilov <mikhael.danilov@gmail.com>",1436712439,"SpiderLevel",39393,3702
+"openarchive","29b3bd71e9b59e259c1c4ce81a0d5c0395e9c9b","Micah Lucas <micahjlucas@gmail.com>",1420040780,"Forced portrait orientation for activities.",87725,8155
+"spotify-tv","8ad0352a53b975e2fc4078d2cc1f9fb58531f8e","Simon Reggiani <simon.reggiani@gmail.com>",1433322233,"FEATURE Last FM PART 2 settings for credentials + make it work this time",100476,9292
+"ProjectPrototype","0bf2a523a01d1dde7d5fe348f6865bd044f797a","seongsil <huhss9981@naver.com>",1443228883,"change swipe direction",40655,3806
+"NetGuardAPI23","137e440bea933ac6f8adf1291762261b8ee5503","M66B <marcel@faircode.eu>",1452095751,"Updated compatibility section",29749,3035
+"AndroidIconics","b758ac2b43327d17c64eff1bdc86f93c95f8cd4","Mike Penz <mikepenz@gmail.com>",1438451080,"* add new GenericFont,which allows to add a font and use it without creating a a complete own custom icon font",4565,424
+"GermanLearningUCA","19af72e22a179c81d9584d483f10547adb6ca92","AlbertoCejas <alberto.cejas.sanchez@gmail.com>",1392922702,"arquitectura básica y modo 1 jugador",20673,2098
+"kouchat-android","5388824e27f0ea53728dc298f323df014a700c0","Christian Ihle <blurpy@gmail.com>",1353789526,"Moving test to links are kept after orientation switch to the main chat test",76970,7311
+"TransportsRennes","398be2a72597ab92e67a62f3f1bb84e9d9faefe","ybonnel <ybonnel@gmail.com>",1301260272,"Passage en 1.6.3",51926,4937
+"Android-Notification","0d9344bdad8bc9913f6acb5b6c9364a02e2f325","Alberto Cuda <alberto.cuda@gmail.com>",1369644470,"Added minimal review+keyboard support",1624,193
+"OpenCamera","e13eb83047000bc66c1c7094c812e4a1108dfae","sergey.malykhin <sergey.malykhin@alamlence.com>",1395922338,"Added code for Amazon inapps.,Bestshot icon.,Panorama fix.",32976,3243
+"BitcoinChecker","ddc46bc232259748be8153b775c5cb7bfa98836","Maciej Ciemięga <ruwenzori@gmail.com>",1398446392,"Added CryptoAltex - fixes #66",7559,740
+"MijnWindesheim","a9ade9f25e4e4211b8a6d02f84ebdffd483f12d","Giovanni Terlingen <gogio@live.nl>",1469363042,"Version 2.1.2",26758,2815
+"TIIK","3d4b1e830455e22c4346d567100d05b53e34389","AraBisTiC <arabistic@hotmail.co.uk>",1427977510,"Sinch - Service + Parse",49467,4664
+"reicast-emulator","672b56f384d9315ed0060f0710145a6c53e40f1","TwistedUmbrella <twistedumbrella@gmail.com>",1390198621,"Add a logging capability that will save to the home directory,This will solve those issues where people say the app crashed and have,little or no information that may be required to diagnose the issue.,This generates it into a file.",94562,8740
+"materialistic","b33a51d39d1523096c1ddbb94c9b3ff53cddd28","Ha Duy Trung <haduytrung@gmail.com>",1444206475,"Merge pull request #88 from hidroh/list,Allow scroll to top action",79829,7544
+"lens-launcher","12103c61c72e5517dbfe656ee187bb7f5ae1236","Nicholas Rout <nicholasrout@gmail.com>",1464624217,"Rtf Fix",78324,7415
+"android-CPU-tuner","46d798851489d4327f1be866ab74033afdb2a2c","Patrick S. Vogt <patrick.vogt@unibas.ch>",1290330197,"pad sliders to the right",58133,5546
+"Timer","842b61c22746d5f7140024cacd6c22467a5d67c","Dan Padgett <dumbledore3@gmail.com>",1331667657,"mess around with the viewpager to keep things cached so scrolling is,faster.  not finished yet - the initial loading stuff doesn't restore,state correctly...",50337,4763
+"pressureNET","1da5008a89f5e9786e831b06fa879ab39dcf732","HMarukh <HMarukh@users.noreply.github.com>",1417530582,"translation strings",90827,8503
+"revolution-h2o","ecdcada798d3483039b253acfd12038482708ee","Dustin <dliang@mines.edu>",1369302623,"testing parallax background",96128,8836
+"Easy_xkcd","f34cbafc8f8e887a3af91fdf9cea2f0d6feca97","T-Rex96 <tom.praschan@gmail.com>",1444990169,"tidied up packages",15873,1571
+"congress-android","fda1f8ee300ba12277621db675002bf56d4e7cb","klondike <kprojection@gmail.com>",1253714856,"Comments",68630,6500
+"Commandr-Android","c7fd494ea43d42bbd17b2a083d8d6b776f1a9c3","Ryan Senanayake <rsenapps@gmail.com>",1408397388,"added silence/unsilence ringer commands",11826,1200
+"RedReader","5706d3bf4ac88758be7e33f4a97f2680cbdc191","QuantumBadger <git@redreader.org>",1398006876,"Human readable post list names",43672,4072
+"Mobike-MOBAPP","c4a7d36c69d057598bbb75de680a4680175e339","donand <donati.andrea.00@gmail.com>",1424884902,"Minor changes",26866,2828
+"AndroidIconics","b93b8b3111e727347a39c98743d428d3db8880f","Mike Penz <mikepenz@gmail.com>",1438441280,"* [release] v1.5.1",4570,424
+"NetGuardAPI23","86d8412b6c5a975212ec3b737e49f42e5c76c39","M66B <marcel@faircode.eu>",1452273705,"Fixed not finding uids",29716,3035
+"MultiWii_EZ_GUI","09b9dcbaa748480781b5d196cf45132faf355da","eziosoft <eziosoft@gmail.com>",1369525670,"No data received notification,read aux boxes retry",27852,2894
+"MozuAndroidInStoreAssistant","a3cf3d2f5dcfc4894712e0952edea8f53e678af","santhosh-mankala-volusion <santhosh_mankala@volusion.com>",1408698303,"Merge pull request #68 from VolusionMattWear/master,Cleaned up returns",27063,2848
+"ShatteredPixelDungeon","7dc2f24edaa3d94e945081380761c6d71367b9a","Evan Debenham <Evan.SHPX@gmail.com>",1470757961,"v0.4.1a: buffed flail",47917,4452
+"lbm-client","4672de816175b6b2aa7a5a7ff2567a766ac9d1fd","gilse <gil@b-buzzy.com>",1406022028,"1",77938,7374
+"SwarmPulse","eb12e90472deddd6a1cf020b4ebd60fef0c6c92","Prasad <prasad7779@gmail.com>",1447763434,"corrected Volatility bug",49005,4611
+"ChordReaderRoot","7ee85814b2f08b852f61f415da244419aa9edba","Nolan Lawson <nolan.lawson@telepin.com>",1297444898,"change layout",11376,1124
+"singkamas","78a406b486f683fcea71493283c036e58af59b63","nelze <nleetian@gmail.com>",1436285315,"Merge pull request #24 from nelze/for-brent,Triangle Fix. Add DictonaryEntry",97905,9009
+"mst","512664065cb25bf934ed5a34c190c239bfa1573e","qii <qiibeta@gmail.com>",1344278206,"animation",84596,7852
+"Randomly-RemindMe","aa4b482b11afbc4ed3fd37a613c0ad640fb0955d","James Morris <morris.a.james@gmail.com>",1440783494,"Major UI/UX improvements to the edit screen,Fixed some bugs with reporting shown/clicked reminders",42867,3982
+"BlackLight","03141f6aa65ecfc44600a459ec0b23db42536c0","PeterCxy <xqsx43cxy@126.com>",1400276612,"UserApiCache: Draw verified state image",7878,794
+"Produce-Price-Checker","1d8be0f7c1d88cbc7695b3da2f993de735edb58","Jarvis Lin <jarvislin0202@gmail.com>",1422622585,"refactor",40561,3795
+"comicdroid","2cc8071b249fb087e1d57cd45950ba084608ca5","Ulrik Andersson <ulrik.andersson@gmail.com>",1380817935,"laborating with amazon graphics",68449,6469
+"toopantip","1b19321c4ee22f18dfa791dd0ae3416992311ae","Çağatay Çallı <ccalli@gmail.com>",1349739815,"widget click opens app but doesn't pop keyboard.",100957,9393
+"DATX02_15_36","dbcf28b25bb125ec0194c7a649d6b045b388616","EmmaWestman <eewestman@gmail.com>",1427901621,"Merge branch 'feature/calendar_gui_stuff' of github.com:Soya93/DATX02_15_36 into feature/calendar_gui_stuff,Conflicts:,	StuderaEffektivt/app/src/main/java/se/chalmers/datx02_15_36/studeraeffektivt/util/CalendarUtils.java",12734,1302
+"Dual-Battery-Widget","270c52bd54ab1feda5e751358da87fb8a3ed81c","Artiom Chilaru <artiom@flexlabs.org>",1324162564,"Updated AndroidBilling module",15090,1512
+"SRBase","fadc2813b7185447593c4e8a5c726030c0237c6","Conner Kasten <emerssso@gmail.com>",1425152814,"Update README.md",45405,4228
+"NLP-modeling","7dc72520c586cd952849902285b9f88bbd76e339","konstantin8105 <konstantin8105@gmail.com>",1475099484,"bug fix - add todo for bug",28408,3002
+"blokish","fcf28e5040d3bd9a6a386056b4b334eb8306872","coutant <home.coutant@wanadoo.fr>",1342169787,"Towards release v1.9 on Play. Fixed Drag inconsistency,fixing Long-press inconsitency too. Fixed minor warnings revealedby ADT20.",65497,6206
+"tribler-android","8ff1c5f92870046e198f2528292795ff1cb4d16","Niels Spruit <niellus16@hotmail.com>",1400143559,"Changed license to GPL v3 (to be compatible with Apache v2)",102301,9532
+"hacked","48b54554bd27bf14b016ab88b0365d370e21f6c3","Marc Doerflinger <marc@doerf.li>",1476129097,"#19 #20 show top breaches and most recent breaches",72831,6920
+"BlackLight","cd7e1c4a9845003ce00a0324f25a4ef5d6777ff","PeterCxy <xqsx43cxy@126.com>",1400265938,"StatusTimeUtils:Fix the day before yesterday display",7879,794
+"BingmuWP","568b11aac518a74c21393163af83f2e3653a9e2","yorung <yorung@gmail.com>",1402851020,"xz plane",6625,665
+"LastStraw","b1facfaeb90e15fc4373d113511868ef47b9bcff","Johan Samuelsson Jusits <jsamuelsson85@yahoo.se>",1420661829,"Merge pull request #92 from johanjusits/branch-1,revamped game system to one activity for all levels",24986,2597
+"SDOViewer","fe208b15b9a11ced3048693b0fe270c63f7649d","marcopar <marcopar@gmail.com>",1433882105,"WIP browse data",44862,4172
+"na4lapy-android","cf444e6ba523864f84c102e5d64ec1500bb6a55","Gosia Syska <malgorzata.syska@o2.pl>",1457872455,"Dodano: Abstract Drawer Activity oraz Drawer Activity dla aktywnosci z drawer menu. Zmieniono Splash Acvitiy oraz Preferences Activity - dodano dziedziczenie po Drawer Activity.",86744,8009
+"reicast-emulator","3f622905963c46597d685c6a60512e92d1daabc","TwistedUmbrella <twistedumbrella@gmail.com>",1392225592,"Merge pull request #268 from NoblesseOblige/master,More optimizations and stability stuff (Yah!!)",94738,8743
+"NetGuardAPI23","d5e3b0dc5669d78749580bb657c35dbcd2310b5","M66B <marcel@faircode.eu>",1449560407,"Updated compatibility section",29572,3031
+"Bioscope","d16228c9fa90ec38c954b53e12ddc2ecef58c99","rohitrnathan <rohitrnathan@gmail.com>",1442530854,"Show progress bar on Crew side",7054,704
+"TransportsRennes","77e42a7e6bfe1b6b5d75ddf705d70ac1cf5cc13","ybonnel <ybonnel@gmail.com>",1303830781,"Gestion des directions.",52005,4942
+"datFM","d82765e6b34485e61f3d2f2c027c68209e4e70f","ZorgeR <zorg.rhrd@gmail.com>",1362081988,"0.1.7.5b - enable first alert",71101,6676
+"Betrayal","3a971c422a4c02c953c36fc9df008791b183573","roophanxp <roophanxp@gmail.com>",1438333439,"Instructions pages work!",5942,601
+"Reader","2bb610181eafc002381f8f429d96d779757af2e","TheKeeperOfPie <igpx346@gmail.com>",1436055475,"- Remove debugging Toasts,- Move Toasts to use String resources file,- Move album title to inside description view,- Add long press descriptions for FABs,- Add Privacy Policy link,- Fix bugs",43259,4024
+"BuckeyeBuilder","1b8a290dc5040989cbf86364bd4c40b00286636","kimberlyboydstun <boydstun.3@osu.edu>",1397571297,"changed equation for determining location in which building",10188,960
+"TransportsRennes","78e61427b160eb2f99545d24ade62b299b55af8","ybonnel <ybonnel@gmail.com>",1304058801,"Système de nomrbe de threads cible.",51992,4942
+"NetGuardAPI23","e718655501aa201f63c7c71a05653da6b30c8f2","M66B <marcel@faircode.eu>",1451840074,"Fix,improvement,refactoring",29772,3035
+"acalc","b0a8b3bc22fdb30955fd2a7c98f34adc740db61","s0nicyouth <a1n2ton@gmail.com>",1449273974,"master gradle fix",57379,5484
+"smartcoins-wallet","7b0963987fafceb2d6d1cd5545596464363e046","Yasir1brahim <yasir.ibrahim@gmail.com>",1468569691,"Merge branch 'master' of github.com:yasir1brahim/smartcoins-wallet",98440,9040
+"tsp-lexikon-android","5a75f1c5561e7cf717fe6cfc82404f34fb36e901","Johannes Bjerva <johannes.bjerva@slagkryssaren.com>",1364225108,"Final changes for version 4",103594,9577
+"Gidder","e89f3bd5acda3dad6bdcefe644480baab55618f","Antoniy Chonkov <antoniy@gmail.com>",1325542935,"Multiple changes:,1. Add settings fragment to switch SSHd service on/off.,2. Add SDCardRepositoryManager and provide methods for create,open,rename,delete of git repository.,3. Add SshAuthorizationManager that handles user authorization - determine the permission of specified user to specified repository.,4. Make multiple changes in the ssh command processing system to handle commands more accurate - it is in working state finally.,5. Add android service that runs the ssh server.",20855,2136
+"BingmuWP","1174d49316997ffef79d3ee49e4a14b4ccc9320","yorung <yorung@gmail.com>",1402849678,"vertices",6624,665
+"CuandoLlegaAndroid","f54d68c8701328ca1b940c32cff0449b7cd8720","Mariano Botta <marianoabotta@gmail.com>",1413739452,"Ultima Consulta",12294,1268
+"Android-Notification","de1557dc9b1832c322492dd84dac4c5b078d17b","Alberto Cuda <alberto.cuda@gmail.com>",1385932383,"Limited number of calls to API as much as possible",2130,220
+"NetGuardAPI23","7430c8a65befe2e0ea8a57294dc7e817ee19c02","M66B <marcel@faircode.eu>",1452808172,"Native conditional reload",29794,3036
+"Android-Spacecraft-Game","b8cc081500bb9bd5a740bae5ec930e990bdfe75","aaronistheman <aarons.7007@gmail.com>",1458595700,"Completed distance is output if user beats level",3865,336
+"Man-Man","4d583f5d1104ddc6dfa5495199b3f2471e397c4","Адонай Элохим <adonai@xaker.ru>",1415737069,"- small usability fix,make back button more predictable",25929,2692
+"GlanceReader","7c326732de2771355ef1605aa342c696400664c","Rich Jones <rich@anomos.info>",1407619384,"Small changes",20953,2156
+"sexytopo","0a5a3b299b1c4ecf8eb55fcaa48093ab5772742","Rich Smith <rls@hwyl.org>",1436660389,"Merge branch 'master' of https://github.com/richsmith/sexytopo into develop",97172,8920
+"reicast-emulator","c3a7260dc1d2faa0cf11540c97796d02e0fce58","TwistedUmbrella <twistedumbrella@gmail.com>",1392255689,"Moving the dismissal call to prevent an inevitable merge fail",94729,8743
+"QuizApp-Android","bd6bea5d20cafb50dd46c66c11b7ba622e73d49","Vinay <vinay.bhargav.reddy@gmail.com>",1411137905,"minor fixes",41280,3849
+"clash_of_balls","2e5e18dec7246b0dcd4b233d223028b88495ea30","Beat Küng <beat-kueng@gmx.net>",1354480331,"+ player death animation (decrease ball size over time)",68131,6442
+"Commandr-Android","1a60bf2097b943a0dd335e2651dd47ba4f8ea7a","Ryan Senanayake <rsenapps@gmail.com>",1408400106,"Add rotation lock commands",11824,1200
+"android-galaxyzoo","0e693fb9366a2ff27f297ea4d68ad9598d84b49","Murray Cumming <murrayc@murrayc.com>",1411987466,"Classify: Add a Restart option menu item,with an icon if there is room.,The icon is from the Action Bar Icon Pack:,https://developer.android.com/design/downloads/index.html#action-bar-icon-pack",61582,5826
+"TIIK","304364904b1215d5b518359357907f88a74deaf","AraBisTiC <arabistic@hotmail.co.uk>",1428013736,"Chat - Half working. Errors Sinch serverside",49460,4664
+"Bioscope","c09a278cc1e1e6a3d4bb28852eb9617329bc56b","Dhinesh Dharman <dhinesh.dharman@gmail.com>",1442083497,"Adding continue or retake buttons",7071,704
+"reicast-emulator","df507197770545787b586291eb2a0ff01de80c2","TwistedUmbrella <twistedumbrella@gmail.com>",1392264535,"Add an option to enable ongoing VMU display,First in menu",94724,8743
+"reicast-emulator","5e103915084bae25ded24e4578e122f3207e8ec","hooby3dfx <hooby3d@gmail.com>",1391811781,"Merge pull request #236 from hooby3dfx/master,Icons and less confusing popup menu",94790,8743
+"Freebloks-Android","97790beccc4bd1dbd6a90fa011e40aeb561a098","Sascha Hlusiak <mail@saschahlusiak.de>",1438623811,"game: throw GameStateException up as RuntimeException",19909,1969
+"TransportsRennes","7901123aa0af4bce9fc626e202388a95ff76c1b","ybonnel <ybonnel@gmail.com>",1314132646,"Début de base sur la sdCard.",52287,4958
+"Bioscope","cfc563ed4c3a3cd7034429d4d083e4c6b98e851","Philip Anderson <panderson160@gmail.com>",1442573448,"add asset for video icon",7044,704
+"Flym","ac8c70a1b54f7a9ea8031335e5357a5b47f84d0","HoloAddict <fred.julian@gmail.com>",1415634480,"do not display the default flym icon into the actionbar",18598,1859
+"mst","1839de5890f0a01c8cb27ab8d9b52e676c6ebb7f","qii <qiibeta@gmail.com>",1344240920,"account",84605,7852
+"Reweyou","05eb412c82cc05efd0522a7a43aaa1e8568ffa83","Ayush Gupta <ayushpguptaapg@gmail.com>",1481652792,"init",44605,4148
+"kouchat-android","75b651165f4cbe8dcd2e4bc74e7804fdc142f77","Christian Ihle <blurpy@gmail.com>",1353786945,"Moving functionality for clicking on text in a textview",76978,7311
+"materialistic","236d711b81c9e821c4b0446a300a6b1907f475a","Ha Duy Trung <haduytrung@gmail.com>",1443971028,"Bump up app version",79845,7544
+"AttysScope","684a03d1e7985ca5275844639ab43b61ad343ed","Bernd Porr <berndporr@f2s.com>",1473445083,"A couple of smaller bugfixes.",5220,526
+"miita-android","e5db176f9069b1bf232eca9aaa9f3e6aa3ac2cc","naoto0822 <n.h.in.m.h@gmail.com>",1482184295,"reformat code in converter",82858,7757
+"anyplace","c385b94e928075d5f08ef6aa1118e1e757dfd0e","Anyplace <anyplace@cs.ucy.ac.cy>",1478082164,"Update README.md",64527,6103
+"pressureNET","2a9c2d9feb0e3a5671b0af4cdd22edd96023fb9","Jacob Sheehy <jacob.sheehy@gmail.com>",1358059292,"implementing privacy options for data sharing. increasing map gps fudge factor,cleaning code.",89965,8427
+"audioguide","f15ea57c1119bb8625a8d67d8aae4a7d9509f09","Kirill Ivashov <ivashov@cs.karelia.ru>",1404474083,"Edit point from MapFragment",64912,6131
+"cryptogram","79f03e4b2bf6b9ff440d09ea4dc25eb750350726","Paul Lammertsma <pflammertsma@gmail.com>",1492448848,"added some given letters for the first puzzles",70985,6660
+"msg","d7a8ca8dc22547bd08cf3fb00a9aa0dc0a28a97","Sergey Solovyev <se.solovyev@gmail.com>",1363999606,"changes",83767,7820
+"meeba","2cec9c442782c2adc4f16ac1c05fb9060dda97f","eidanspiegel <eidanspiegel@1a69d080-33a6-a178-0004-a98bc7fb1081>",1385412161,"Added universal-image-loader-1.8.6.jar you need to add this to your dependencies!",81164,7618
+"cryptogram","cff9861e4c26f9bac06ff53d68cb08d3f2398196","Paul Lammertsma <pflammertsma@gmail.com>",1492741472,"version bump",70967,6660
+"NLP-modeling","81009ccda77e39816d599098643e50e085d0c3ad","Konstantin8105 <pollygon2011>",1475577931,"fix bugs - add Ru text",28377,3002
+"Easy_xkcd","8711b372f47ef4192650e5b9f384e814dac27c7","Joshua H. Fogg <joshua.h.fogg@gmail.com>",1445022135,"Create README.md",15871,1571
+"show-java","acc52251c9cf650bc4133c89716cd2b8670679c","Niranjan Rajendran <niranjan94@yahoo.com>",1432932435,"Google Play services for Ads. New Adview layout. Crashlytics API key update on Manifest.",97368,8952
+"MLManager","3eceb2bb97e45cd0f75f089c390d9b0a76bf996","Javier Santos <javier.santos.vel@gmail.com>",1433456640,"Set versionCode to 7",25734,2678
+"tribler-android","05a41839eee5d546f9606f2a34c0eb7049844f2","wtud <ws+tud@dosoftware.nl>",1399969751,"Add https://github.com/Tribler/tribler as a submodule",102357,9532
+"tribler-android","bef81b76d5d4e9d32cb78793c8fbef652c15739","Niels Spruit <niellus16@hotmail.com>",1401269824,"Added tests for button press events",102507,9534
+"show-java","6a1fe0de13c28272ccd26c502646b61405a5538","Niranjan Rajendran <niranjan94@yahoo.com>",1432932089,"Added icons for new FAB menu on landing page",97370,8952
+"MLManager","00148c556aab6a2f4b1711c73b297fc44d6b484","Javier Santos <javier.santos.vel@gmail.com>",1433522012,"Update README.md",25726,2678
+"GlobalTv-Android","7c546fdbc3d99a5eea9c2cc9ded376bbc8c3055","lubomyr <lubomyr31@gmail.com>",1483743941,"implemented displaying size of list for global favorites",21058,2179
+"Yaaic","9d7e360e7c1f7f9434dfa49c2054821804a5507","Sebastian Kaspari <s.kaspari@googlemail.com>",1268255440,"Scroll to new conversations on create",56099,5389
+"miita-android","ed7df9a15c51fd115811869fec790308afb7710","naoto0822 <n.h.in.m.h@gmail.com>",1481667011,"attache DrawerHeader",82886,7757
+"FoodCraft","c2c67f2230930512f58f4dfabdf5c6d3f647a180","Paul Klein <paulleoklein@gmail.com>",1446581129,"Added Ingredient List",18831,1893
+"TimisoaraPublicTransport","5a6e7eb55aceb58e9236616d24967b5f6637b2d","Mihai Balint <mihai@cs.upt.ro>",1369781964,"Update line times view with new graphics",50525,4795
+"WingIt","fffe411b5983e47ce5e005788899ca05b96dfd70","Kedar Thakkar <kedarthakkar@airbears2-10-142-33-110.airbears2.1918.berkeley.edu>",1489838878,"Deleted imports",55581,5348
+"MLManager","4c71677a65b66153320149bbe4859ec03753506","Javier Santos <javier.santos.vel@gmail.com>",1432813087,"Create CHANGELOG.md",25696,2677
+"Reaction","4430e3ebb1c7e2c4c0672a373a59956ffcfdeb65","Chris Gaddes <cagaddes@gmail.com>",1473624456,"Changed help text. Added signing. Last push before publishing to Play Store",43171,4012
+"materialistic","2badf8ce8f134e35cb78b2bd471c778c6c1ecc7","Ha Duy Trung <haduytrung@gmail.com>",1446378262,"Add popular section",79941,7547
+"audioguide","4253c13a8d5b8e05f36ab4f694ef5312c0374e3","Kirill Ivashov <ivashov@cs.karelia.ru>",1395850781,"Load track only once",64731,6121
+"DATX02_15_36","956c885dbcca67d8434f198a7ef352cd3bf2b31","Patricia <chorriballong@gmail.com>",1424447791,"Funnier laucnh icon.",12506,1298
+"kouchat-android","df0657d32702d3c8075d1e0842d08a8525298a6","Christian Ihle <blurpy@gmail.com>",1470588537,"Make private chat notification open private chat on click",77863,7370
+"chinese-checkers","f5c8f7c5b1029a7621b23d62e1a956cde22d51c","scoutant <android@scoutant.org>",1352804328,"Fix feature : a peg cannot jump over itself. applyied to AI too.",67895,6436
+"reicast-emulator","9af23e027607a5760fbc2d071ef51abdc1ebf37","TwistedUmbrella <twistedumbrella@gmail.com>",1392035126,"Merge pull request #257 from NoblesseOblige/master,Add reicast to the Sony Xperia Play games launcher menu",94757,8743
+"cryptogram","a6e77a0cc5dbd62802fd867ef64cd7c054a8abb8","Paul Lammertsma <pflammertsma@gmail.com>",1487095576,"new puzzles; we now have 530",70956,6658
+"pressureNET","78e26b3688a19ed0d5e54806223f871aa9650ba","HMarukh <HMarukh@users.noreply.github.com>",1416929739,"translation strings barometernetwork to line 2389",90816,8502
+"BingmuWP","bc62ead6f0a3b7a35c8d8b03657a48ce2aff23c","yorung <yorung@gmail.com>",1402792161,"fixing wrong parameter of glDrawElements",6629,665
+"Beanstalk","44f7741d67f873bdd805c2bdf3b49d0c4ec89004","Sean Farrell <Seanjosephfarrell@gmail.com>",1350818374,"Added SkyDrive resources,Added SkyDrive resources",5540,569
+"podplayer","db07263a43f5543a17a40091661fa6461a0adbd","Takashi Masuyama <mamewotoko@gmail.com>",1344598777,"add preference of threshold of gesture score",89317,8378
+"Freebloks-Android","7e8a9c24d662c08e038f9d13f48ff6f3515f078","Sascha Hlusiak <mail@saschahlusiak.de>",1367436758,"show alert dialog on network read error",19406,1930
+"BlackLight","08a89d5339467d2e974b29476bc737140f7e6f8","PeterCxy <xqsx43cxy@126.com>",1400260768,"Resources: Update Launcher Icons,Credit: EasyIcon",7884,794
+"tribler-android","b019385db18ebd49f1eb59a6b2acbf5d2a12fb6","Niels Spruit <niellus16@hotmail.com>",1400056658,"Disabled search functionality",102330,9532
+"Yaaic","abc75c068aa19a219169a4d9ebe72b56cf5e9ca","Sebastian Kaspari <s.kaspari@googlemail.com>",1268350262,"Disabled vertical fading for conversation views",56069,5389
+"TIIK","e2f9396c78c57978d01bfb3cfc8ed77ebf6e6fd","AraBisTiC <arabistic@hotmail.co.uk>",1428078562,"Chat - Pre Schema Redesign",49458,4664
+"ShatteredPixelDungeon","cdb13146eb0a30fc447a904a9d2408b8dbae59d","Evan Debenham <Evan.SHPX@gmail.com>",1470765600,"v0.4.1a: fixed problems with rankings ids,implemented UUIDs for them as well",47916,4452
+"sokobug","e26c9f94d5ad238ab4d5821a96be501bd10e98f3","Bogdan Guranda <bogdanguranda@gmail.com>",1425418332,"Restructured labyrinth object managment with LevelObject class and its,derived classes.",99535,9122
+"GBHS-Android","b1c80e7cfd16a45591545de773fe21ab1261b45","Corey Rowe <CoreyR1196@gmail.com>",1432129682,"Updated twitter kit,Fixed color on landscape calendar",20546,2065
+"Yaaic","7863ee8aa2f068bcf2d147b77d3df98ed6dfb4d","Sebastian Kaspari <s.kaspari@googlemail.com>",1268251941,"ChannelReceiver now uses conversations instead of channels",56105,5389
+"clash_of_balls","74acadb0394d69f999fdd825d160af5ba90627a7","Hans Hardmeier <harhans@ethz.ch>",1354652826,"+ Added new lvl 6,+ Added Boarder_Textures % Code,! Fixed Nullpointer Bug Foreground in Gamelevel,+ New Class Game Boarder",68113,6442
+"WingIt","c0daa6963504181500d500faac976d9d330daa39","Shreya Reddy <reddy.shreya18@gmail.com>",1489689008,"Adjusted layout for login and signup",55598,5348
+"msg","fd9c87657a57d5504ddd3ac08157ee45a29dd96","Sergey Solovyev <se.solovyev@gmail.com>",1362673384,"style changes",83693,7818
+"Reweyou","14367c3619063d54a7035882c8060f0ec45cfed9","Ayush Gupta <ayushpguptaapg@gmail.com>",1481303575,"add default profile pic when empty in notifications",44639,4148
+"NetGuardAPI23","9db05d1dd0645f241b9254915afac1af0d3c38f","M66B <marcel@faircode.eu>",1452261501,"IPv6 traffic logging",29720,3035
+"cominghome","f7bd8bd84bf9d88643581d12323899f5758eaf0","rmceoin <rmceoin@gmail.com>",1412697434,"Clean up unused code and some reformatting",68475,6475
+"MLManager","26df5dd4b008fa875cbec628c29a2f1017c50c2","Javier Santos <javier.santos.vel@gmail.com>",1433455867,"Set primary color to app buttons",25737,2678
+"LastStraw","24375e7df9d67c0cd342226c2fe49a646f3f37f9","Johan Samuelsson Jusits <jsamuelsson85@yahoo.se>",1420577727,"Merge pull request #90 from johanjusits/branch-1,added w3 lv1 ai and all levels in DB",24990,2597
+"MLManager","1bb8e4d80fec3919d56cd68f3e380c77a99202d","Javier Santos <javier.santos.vel@gmail.com>",1433426728,"Load installed apps is now asynchronous",25742,2678
+"KeepScore","003188baa5111bf72093ecc7fb14a77e6ee3943","Nolan Lawson <nolan.lawson@gmail.com>",1347733219,"interface tweaks for xlarge,string changes",24617,2580
+"foursquared","7597b75ff1fa563f711b975e07a6ee1df97cb9b","markww <markww@gmail.com>",1275928948,"Just added some log statements which may help in debugging later on,left them on by default with level 'info'.",72180,6828
+"NetGuardAPI23","ae733ee8e5eb805c2b831aaa5275473858140e2","M66B <marcel@faircode.eu>",1452403172,"System apps should not be shown by default",29843,3036
+"Orpheus","ec1aceeb0950c22610c54c3f30e283a9546d307","Andrew <andrew.d.neal@gmail.com>",1337553380,"removed unused code",35343,3430
+"Umbrella_android","5d5e38bae84c4dd53f328d0b86d9637715fc588","Rok Biderman <rok.biderman@gmail.com>",1414534261,"search result styling plus navigation done",53004,5119
+"BuckeyeBuilder","4c30a39be66aea932cf17b8a5f4dde5923dc879","kimberlyboydstun <boydstun.3@osu.edu>",1396964529,"concurrent threads",10164,959
+"Reweyou","64f02ca03e5b211b40304dac76cb52a367731f92","Ayush Gupta <ayushpguptaapg@gmail.com>",1481565299,"fix bug with number of views method",44614,4148
+"DATX02_15_36","f1194de6613d9717fd11de6d9f79bd6a98030b0","Sara <sayo.panda.sn@gmail.com>",1424726985,"Somewhat updated the tip views ~",12501,1298
+"cryptogram","93ddb87894375ac49087706de28c9894c02f035b","Paul Lammertsma <pflammertsma@gmail.com>",1492269367,"don't perform hyphenation tests when disabled",70989,6660
+"android-galaxyzoo","3a952b8660c73c50d9674d28864d57b006e3fce","Murray Cumming <murrayc@murrayc.com>",1428135979,"IconsCache: More corrections for (commented-out) icon caching code.",62307,5849
+"MultiImagePicker","162d8ee73c84ee2ff0219d3cd9663acb839f02d","yazeed44 <g--56@hotmail.com>",1440267278,"Implemented a method for creating a temporary capture file",27797,2890
+"MLManager","d2657a0827cf1209575ca7d29656cb792653e87","Javier Santos <javier.santos.vel@gmail.com>",1433350041,"Fix status bar color when primary color is not default",25660,2677
+"MLManager","a1b63732d00f34ab950c9e7bbde45a6ba77bec3","Javier Santos <javier.santos.vel@gmail.com>",1433264862,"Better alignment for Google Play button on every app",25668,2677
+"android-CPU-tuner","abc3957251adcb144c4c5e951e5ba51ab76bc63","Patrick S. Vogt <patrick.vogt@unibas.ch>",1289935749,"install as system app",58167,5546
+"RadyoMenemenPro","45665acdd2e4eb84b75451874e4e21f5907de1c","Lütfi Tekin <lutfi-tekin@outlook.com>",1470507034,"comment posting enabled",42084,3930
+"android-galaxyzoo","c9aa0b72d1ca21783f1842c61d135b68bf85846","Murray Cumming <murrayc@murrayc.com>",1414141545,"DecisionTree: Make getFirstQuestion() private.,Because it is not used outside the class.",61940,5830
+"OpenCamera","63e593145d5f1a1192e1747cd99b78c5a0af422","sergey.malykhin <sergey.malykhin@alamlence.com>",1398178734,"New store icons and new design",33040,3247
+"toopantip","7075a79dc565b5184a05cc910e34217ec0d9967","Çağatay Çallı <ccalli@gmail.com>",1349779673,"Source identifier on top of the screen,as Gabriel mentioned",100956,9393
+"Safegees","bea3927377de5e2995eab7cd6cddfe819e822f7","Victor Purcallas <vpurcallas@gmail.com>",1456086659,"Great MIGRATION from Google maps api to Open Street Maps",45466,4231
+"congress-android","5e48caa6878a65a11fa4143baf8cd4ba16e2ed5","Eric Mill <kprojection@gmail.com>",1296319588,"Bumped version number",69484,6548
+"how-far","995908f5f412f1bb876a0029ae8887bf8827384","Piotr Janisz <piotrekjanisz@gmail.com>",1413659199,"Remove support for portrait orientation",73277,6982
+"buddycloud-android","51a21d7e687a4e4090ed787e62ddf50039771ae","Rodrigo Duarte Sousa <rodrigodsousa@gmail.com>",1363098358,"Fix some line ends and update target SDK to 17 (Android 4.2.2)",66239,6313
+"Man-Man","71fede48ccc97caac55de1f592ada94966c2ed1","Адонай Элохим <adonai@xaker.ru>",1415929909,"- finish implementing dark theme",25923,2692
+"DBP2P","08ef19060442b869892145ee47166aca0c56652","jesperborgstrup <jesper@borgstrup.dk>",1305120425,"Inspection section in deliverable",13343,1320
+"reicast-emulator","77bcb8de7ff5a5c7ba6a35a9a24287a582fdc91","TwistedUmbrella <twistedumbrella@gmail.com>",1391848856,"Fix immersive mode to automatically handle focus changes",94781,8743
+"Beanstalk","a63edaee60410bfd98664044fbedd976798e3bca","Casey Feldman <ligerxx@me.com>",1355955171,"Pulled in the proper variable and verified sharing via email includes attachments.,If someone would be willing to test this on their phone to see what,other things are able to be properly sent it would be very much,appreciated.",5654,577
+"revolution-h2o","eaf52bd88ab54eb7fb44ce0ad4ad8f6f30a41a1","Dylan Chau <DChau10@gmail.com>",1369294387,"absolutely nothing",96135,8836
+"smartcoins-wallet","607f8b45e604172442d553598844206bfdd3949","Henry Varona <henry.varona@gmail.com>",1480672237,"Import Bin File",98741,9054
+"deckerino","383077bf8fbbc2085b88c46fe1d3a8957f44bc7c","efarraro <efarraro@ebay.com>",1412549326,"Theme changes,string cleanup,* When creating a deck,the header is appropriately themed based on the,selected class,* Preparing to add ContextActionBar for deck deletion,* Added additional strings,* Minor bug fixes",71252,6691
+"NetGuardAPI23","c9392c1d814ed33137383518a8f5cb8ac8be848","M66B <marcel@faircode.eu>",1452325790,"Use date as suffix for export file name",29708,3035
+"Android-Spacecraft-Game","c7e4b1664bd09fc8a59bad3e489a3ebd61e97c1","aaronistheman <aarons.7007@gmail.com>",1458596265,"Updated todo list,I can't think of a good way to try to release the MediaPlayer instance if,an exception is thrown. I think such an effort could lead to more problems,(e.g. releasing the instance twice). Furthermore,I thought of many ideas,for enemies after doing some research into the unique aspects of each,ghost in Pac-Man.",3863,336
+"revolution-h2o","7ea4d4dd23e627e36acf190e95826dc8e65f9b8","Dustin <dliang@mines.edu>",1369305292,"added player sprite",96125,8836
+"hacked","bcf81ac273cde00cece0c964b31eb330c94ec356","Marc Doerflinger <marc@doerf.li>",1476135756,"#40 - move classes to other package",72823,6920
+"materialistic","72b48c869b13e04200f0675ed0d0320f61be9cb","Ha Duy Trung <haduytrung@gmail.com>",1443873343,"Use preference-v7",79876,7544
+"NetGuardAPI23","048836193763696d6aa29cd8e36b16eb5354a43","M66B <marcel@faircode.eu>",1449680230,"Network speed improvements",29555,3031
+"tribler-android","7af7f1b31f7ae81d7875ffa9206f4e6d77310a4","nspruit <nspruit@users.noreply.github.com>",1401112813,"Merge pull request #17 from wtud/fixLintWarnings,Fix android lint warnings",102567,9534
+"tsp-lexikon-android","46f73d850bc2c8c4ceca64d6df93c695ca2a48b6","Johannes <johannesbjerva@gmail.com>",1360324449,"Adding horizontal support",103540,9572
+"southendtransportresearch","e44d702bf3468c6db18be7e5b62098f067e19080","Tom Keene <tom@theanthillsocial.co.uk>",1364402860,"Compiled classes",99747,9149
+"FitnessTracker","bb6d09d6cd832d72279d3820fb9c58470bf54cd","Joan Domingo <joands@gmail.com>",1422269788,"translated to german",17494,1766
+"Billy","d6e8d5912e94f621f4d24511459846bd0e307881","Vibin reddy <v@vibinreddy.me>",1414013344,"crashlytics",6507,659
+"lens-launcher","9944c083a57bb90c08aac19d976f80ef200bdc4","CreaRo <bhardwaj.rish@gmail.com>",1464371254,"Fixed Saving ToPersistence App Visibility",78345,7415
+"DBP2P","1de6e7e183c4c5f4d42399836a8f333e3907222","Thomas Kjeldsen <thomas@thomaskjeldsen.dk>",1305118848,"Increased API level to 7. Restructured + commented manifest.",13345,1320
+"clash_of_balls","5ae3c78afd449801a7589967ef03cd1603ae8665","Beat Küng <beat-kueng@gmx.net>",1354271427,"+ GameBase: separate initial player count & current player count",68176,6442
+"secrecy","c3e421df014f99a5313c63fe5325563afe0ada0","Doplgangr <mkcyyin@gmail.com>",1409941985,"Add Translation & translator entries",96823,8895
+"reicast-emulator","d09cd0d639d509685df1fc2f8acefc26170e35b","Stefanos Kornilios Mitsis Poiitidis <skmp@nillware.com>",1389928954,"Merge pull request #102 from NoblesseOblige/master,Update game selection to prevent launching BIOS for all",94580,8740
+"NetGuardAPI23","52ec25302f78763ba08b62af16a6e90cde1d884","M66B <marcel@faircode.eu>",1452234789,"Compact database on clear",29732,3035
+"MLManager","623da0da6d073ec6692ec3b91f0b8c650320ff8","Javier Santos <javier.santos.vel@gmail.com>",1433412233,"Update README.md",25651,2677
+"msg","05fea7b908c9d54824137b74289b61e8d2df5ab","Sergey Solovyev <se.solovyev@gmail.com>",1362610050,"xmpp implementation",83700,7818
+"Multi-Cal","3d337fc702e64ba4e7ac1542667db0bd2168bf86","William Wu <williamwu2049@outlook.com>",1490220551,"Update README.md",27726,2878
+"Easy_xkcd","6797c83bb4275ba968fc3bb818b02e5e0c0d27a","T-Rex96 <tom.praschan@gmail.com>",1444989547,"tidied up packages",15877,1571
+"SendWithFtp","6578202c6e9f5358c95e6b0e2fbca66abf16b96","Michael Totschnig <michael@totschnig.org>",1356736288,"release",47043,4400
+"NetGuardAPI23","9a5052c65420d211811eada77eb2ed7b531897f","M66B <marcel@faircode.eu>",1452075353,"Cleanup",29754,3035
+"WhatSongIsItAnyway","1afe02ef5bf705fb33bed456b5c68b10e8836fd6","Elliott Marquez <marquez@mit.edu>",1395189402,"moved line 45 to line 37 in MainActivity. Changes to that page will no longer crash.",55198,5326
+"Beanstalk","a4a1eac9474d7c6180ca8e95d05bc1f0c30338f0","Casey Feldman <ligerxx@me.com>",1355790397,"removed banding on buttons",5657,577
+"Beanstalk","5d9b2c6142581070d2a825a2381362c668847342","Casey Feldman <ligerxx@me.com>",1350822064,"Skydrive login page fixed",5533,569
+"android-galaxyzoo","e8b21d5fb20bab4a925714a38157bc53b955b28","Murray Cumming <murrayc@murrayc.com>",1411630359,"UiUtils: Remove unused getLocale() method.",61637,5826
+"WingIt","32c92cb7b28c48a1ba0ac9abef835e8e9b73039b","Kedar Thakkar <kedarthakkar@airbears2-10-142-33-110.airbears2.1918.berkeley.edu>",1489835240,"Updated action bar on past adventures",55587,5348
+"WhatSongIsItAnyway","3c68292b9471e03b9f12b8d94f95fbb6eff36674","Annie Jiao <anniej@mit.edu>",1395074778,"added apache & call jaro winkler,doesnt fuzzy match yet",55228,5326
+"MLManager","3a39c2f438509268fc43bbf296bbd27c3b1978c","Javier Santos <javier.santos.vel@gmail.com>",1433409853,"Add .travis.yml",25656,2677
+"smartcoins-wallet","5237c24fe120402f0756482b4ad53c2d7eab5de","Qasim Abdani <qabdani.knysys@gmail.com>",1468233551,"Merge branch 'master' of ssh://manajor.com:1620/home/git/repositories/repository479_def",98486,9040
+"PixelDungRemix","a4532e7f0da38272edcbd617e31bfebc3d15d69","Mikhael-Danilov <mikhael.danilov@gmail.com>",1436736642,"spider level design",39385,3702
+"OpenCamera","ab6711f8fd6584be3abe09bab61dcecbac2af5a","Metelskiy Maxim <maxmet91@gmail.com>",1399482850,"fix ExifDriver.",33089,3249
+"Teleprompter","9f7debf2cb19c006ec1b7a05f3d50dda8a5a8c1","danielfmsouza <danielfmsouza@gmail.com>",1473862156,"AI-2.1.2 <danielfmsouza@daniel-note Overwrite remote https://github.com/danielfmsouza/teleprompter.git to local",50205,4749
+"OpenFit","2e7d7867120c7ded977d7972354eb290c7e6d4b","Jared De La Cruz <jared_de_la_cruz@yahoo.com>",1434578512,"OpenFitVariableDataComposer",34904,3360
+"Yaaic","c5eef56151f97d981c8760d234cc2a6bb7106c2","Sebastian Kaspari <s.kaspari@googlemail.com>",1267899617,"Some adjustments in render()",56179,5389
+"android-galaxyzoo","2237ac113d23f591e81acf0e0926ddddb558887","Murray Cumming <murrayc@murrayc.com>",1411983792,"ItemsContentProvider: Avoid even postDelayed() until necessary.,This should avoid some useless wakeups.",61586,5826
+"DATX02_15_36","e1e99d566829ccfe8029e14372a4e16a9d0211d","Patricia <chorriballong@gmail.com>",1424420831,"Remove empty folder,add .gitignore",12508,1298
+"Facebook-Contact-Sync","c1620ba9c3f1d52544b6d6a36cd0a8755b997a3","loadrunner <load.runner@weednet.ro>",1360643473,"update version code",17192,1721
+"podplayer","c51d63dba7e0f2430c7df08a1adf1163ed97af2","Takashi Masuyama <mamewotoko@gmail.com>",1344126557,"update readme",89256,8377
+"pressureNET","5600c9ff62d5df2c88551efac2cdf441cbc2296","Jacob Sheehy <jacob.sheehy@gmail.com>",1367180312,"Adding charting library (achartengine) for charting and graphing of data",90035,8436
+"QuizApp-Android","b0cefd882d89ed6f759da838611b6a0a3af1bb9","Vinay <vinay.bhargav.reddy@gmail.com>",1411149357,"minor changes",41272,3849
+"Mobike-MOBAPP","523f758d737fc063aae6e0ef0c1716cc0bae7ed","donand <donati.andrea.00@gmail.com>",1424598713,"Minor changes.",26882,2828
