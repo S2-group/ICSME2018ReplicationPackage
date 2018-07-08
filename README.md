@@ -1,5 +1,5 @@
 # How Maintainability Issues of Android Apps Evolve: Replication Package (ICSME 2018)
-This repository is a companion page for the paper "How Maintainability Issues of Android Apps Evolve" submitted to ICSME 2018.
+This repository is a companion page for the paper "How Maintainability Issues of Android Apps Evolve" accepted for publication at the International conference on Software Maintenance and Evolution ([ICSME 2018](https://icsme2018.github.io/)).
 
 It contains all the material required to replicate our analysis, including (i) the raw input data (ii) the statistical analysis scripts, and (iii) the analysis results in form of data, plots, etc. Some additional analyses and results, not included in the paper due to space limitations, are also provided.
 
