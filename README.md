@@ -5,27 +5,27 @@ It contains all the material required to replicate our analysis, including (i) t
 
 Data collection
 ---------------
-The data used for this study can be obtained by executing the scripts available [here](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection)
+The data used for this study can be obtained by executing the scripts available [here](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection)
 
-1. [githubCrawler.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/1_githubCrawler/githubCrawler.py) - Mines Github repository for open-source, published apps 
-2. [fdroidCrawler.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/2_fdroidCrawler/fdroidCrawler.py) - Mines Fdroid repository for open-source, published apps
-3. [Wikipedia data](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/datasetCsvs/3wikipedia_53.py) - Manually extracted apps that are published on Google Play and have source code on Github, available [here](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
-4. [csvMerger.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/3_csvMerger/csvMerger.py) - Merges the three sources into one csv 
-5. [googlePlayPageChecker.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/4_googlePlayPageChecker/googlePlayPageChecker.py) - Identifies the existence of Google Play Store page reported in links in repositories
-6. [csvDuplicatesRemover.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/5_csvDuplicatesRemover/csvDuplicatesRemover.py) - Removes duplicate entries from the csv 
-7. [androidManifestChecker.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/6_androidManigestChecker/androidManifestChecker.py) - Filters apps that do not have a corresponding Manifest file 
-8. [appRootAdder.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/7_appRootAdder/appRootAdder.py) - Adds app root folder locations to apps.
-9. [appRootFilter.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/7_appRootAdder/appRootFilter.py) - Filters the apps for which the root folder could not be identified.
+1. [githubCrawler.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/1_githubCrawler/githubCrawler.py) - Mines Github repository for open-source, published apps 
+2. [fdroidCrawler.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/2_fdroidCrawler/fdroidCrawler.py) - Mines Fdroid repository for open-source, published apps
+3. [Wikipedia data](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/datasetCsvs/3wikipedia_53.py) - Manually extracted apps that are published on Google Play and have source code on Github, available [here](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+4. [csvMerger.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/3_csvMerger/csvMerger.py) - Merges the three sources into one csv 
+5. [googlePlayPageChecker.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/4_googlePlayPageChecker/googlePlayPageChecker.py) - Identifies the existence of Google Play Store page reported in links in repositories
+6. [csvDuplicatesRemover.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/5_csvDuplicatesRemover/csvDuplicatesRemover.py) - Removes duplicate entries from the csv 
+7. [androidManifestChecker.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/6_androidManigestChecker/androidManifestChecker.py) - Filters apps that do not have a corresponding Manifest file 
+8. [appRootAdder.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/7_appRootAdder/appRootAdder.py) - Adds app root folder locations to apps.
+9. [appRootFilter.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/7_appRootAdder/appRootFilter.py) - Filters the apps for which the root folder could not be identified.
 
-To collect data about snapshot series execute either one of the scripts available [here](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/snapshotSeriesScripts)
-1. [cloneRepos.py](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/snapshotSeriesScripts/cloneRepos.py) - Snapshot series creation in Python, given a .csv file containing information about apps (with timestamps), creates a snapshot series
-2. [processAllSnapshots.sh](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/snapshotSeriesScripts/processAllSnapshots.py) - Bash script, given a .csv file containing information about apps (with timestamps), creates a snapshot series for each, and clones the required snapshots. Allows for specifying a different time-window and the addition of different static code analysis tools
+To collect data about snapshot series execute either one of the scripts available [here](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/snapshotSeriesScripts)
+1. [cloneRepos.py](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/snapshotSeriesScripts/cloneRepos.py) - Snapshot series creation in Python, given a .csv file containing information about apps (with timestamps), creates a snapshot series
+2. [processAllSnapshots.sh](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/snapshotSeriesScripts/processAllSnapshots.py) - Bash script, given a .csv file containing information about apps (with timestamps), creates a snapshot series for each, and clones the required snapshots. Allows for specifying a different time-window and the addition of different static code analysis tools
 
-Dataset .csv files containing the results of the data collection scripts are available [here](https://github.com/ICSME/ReplicationPackage2018/tree/master/dataCollection/datasetCsvs)
+Dataset .csv files containing the results of the data collection scripts are available [here](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/dataCollection/datasetCsvs)
 
 Analysis replication
 ---------------
-The totality of the statistical analysis scripts utilized for the study are available [here](https://github.com/ICSME/ReplicationPackage2018/tree/master/analysis)
+The totality of the statistical analysis scripts utilized for the study are available [here](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/analysis)
 In order to replicate the analysis of the study (i) clone the repository (`git clone https://github.com/s2-group/ICSME2018ReplicationPackage`) and (ii) execute the analysis scripts in the following order.
 
 1. [dataLoader.r](https://github.com/s2-group/ICSME2018ReplicationPackage/tree/master/analysis/dataLoader.r) - Load the .csv files containing the raw data
